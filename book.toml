@@ -1,6 +1,10 @@
 [book]
 authors = ["Seasawher"]
-language = "en"
+language = "ja"
 multilingual = false
 src = "src"
 title = "数学無料リソース集"
+
+[build]
+create-missing = false
+build-dir = "book"
