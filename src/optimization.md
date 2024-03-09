@@ -10,7 +10,8 @@
 
 ## Bertsekas『Convex Optimization Theory』
 
-* URL: <https://ocw.mit.edu/courses/6-253-convex-analysis-and-optimization-spring-2012/>
-* ライセンス: 不明
-* 演習問題と解答: <https://ocw.mit.edu/courses/6-253-convex-analysis-and-optimization-spring-2012/pages/assignments/>
+* 書籍URL: <https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf>
+* 講義URL: <https://ocw.mit.edu/courses/6-253-convex-analysis-and-optimization-spring-2012/>
+* ライセンス: 不明だが，出版社のドメインで公開されている
+* 演習問題の解答: <http://www.athenasc.com/convexduality.html>
 * 分野: 凸最適化
