@@ -110,3 +110,15 @@
 * URL: <https://matthbeck.github.io/complex.html>
 * ライセンス: 不明
 * 分野: 複素解析
+
+## Liberzon『Calculus of Variations and Optimal Control Theory: a Concise Introduction』
+
+* URL: <http://liberzon.csl.illinois.edu/publications.html>
+* ライセンス: 不明
+* 分野: 制御理論/最適制御
+
+## Anderson, Moore『Optimal Control: Linear Quadratic Methods』
+
+* URL: <https://users.cecs.anu.edu.au/~john/papers/BOOK/B03.PDF>
+* ライセンス: 不明だが著者により公開されている
+* 分野: 制御理論/最適制御
