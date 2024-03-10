@@ -128,3 +128,9 @@
 * URL: <https://math.berkeley.edu/~evans/control.course.pdf>
 * ライセンス: 不明だが著者が公開している
 * 分野: 制御理論/最適制御
+
+## Leinster『Galois Theory』
+
+* URL: <https://www.maths.ed.ac.uk/~tl/gt/gt.pdf>
+* ライセンス: 不明だが著者が公開している
+* 分野: Galois理論
