@@ -90,3 +90,9 @@
 * URL: <https://www.maths.ed.ac.uk/~tl/gt/gt.pdf>
 * ライセンス: 不明だが著者が公開している
 * 分野: Galois理論
+
+## Leinster『General Topology』
+
+* URL: <https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf>
+* ライセンス: 不明だが著者が公開している
+* 分野: 位相空間論
