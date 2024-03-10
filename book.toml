@@ -11,3 +11,4 @@ build-dir = "book"
 
 [output.html]
 no-section-label = true
+git-repository-url = "https://github.com/Seasawher/free-math"
