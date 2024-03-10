@@ -4,15 +4,12 @@
 
 ---
 
-# 基礎数学
-
 - [線形代数](./linear_algebra.md)
 - [微積分](./calculus.md)
-
-# 数理工学
-
+- [整数論](./number_theory.md)
 - [機械学習](./machine_learning.md)
 - [数理最適化](./optimization.md)
+- [制御理論](./control.md)
 
 ---
 

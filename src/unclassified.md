@@ -8,14 +8,6 @@
 * 演習問題の解答: あり
 * 分野: 可換環論
 
-## Shoup『A Computational Introduction to Number Theory and Algebra』
-
-* URL: <https://shoup.net/ntb/>
-* ライセンス: Attribution-NonCommercial-NoDerivs 3.0
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 初等整数論
-
 ## Hatcher『Algebraic Topology』
 
 * URL: <https://pi.math.cornell.edu/~hatcher/AT/ATpage.html>
@@ -46,17 +38,7 @@
 * ライセンス: 不明
 * 演習問題: あり
 * 演習問題の解答: なし
-* 分野: 離散最適化/近似アルゴリズム
-
-
-
-## Stein『Elementary Number Theory』
-
-* URL: <https://wstein.org/ent/>
-* ライセンス: 出版社の許可を得て公開されている
-* 演習問題: あり
-* 演習問題の解答: あり
-* 分野: 初等整数論
+* 分野: 近似アルゴリズム
 
 ## Essential Coding Theory
 
@@ -91,14 +73,6 @@
 * 演習問題の解答: なし
 * 分野: データ構造とアルゴリズム
 
-## 『Parameterized Algorithms』
-
-* URL: <https://www.mimuw.edu.pl/~malcin/book/>
-* ライセンス: 不明だが出版社の許可を得て公開
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 離散最適化
-
 ## Trench『Elementary Differential Equations』
 
 * URL: <https://digitalcommons.trinity.edu/mono/8/>
@@ -110,24 +84,6 @@
 * URL: <https://matthbeck.github.io/complex.html>
 * ライセンス: 不明
 * 分野: 複素解析
-
-## Liberzon『Calculus of Variations and Optimal Control Theory: a Concise Introduction』
-
-* URL: <http://liberzon.csl.illinois.edu/publications.html>
-* ライセンス: 不明
-* 分野: 制御理論/最適制御
-
-## Anderson, Moore『Optimal Control: Linear Quadratic Methods』
-
-* URL: <https://users.cecs.anu.edu.au/~john/papers/BOOK/B03.PDF>
-* ライセンス: 不明だが著者により公開されている
-* 分野: 制御理論/最適制御
-
-## Evans『An Introduction to Mathematical Optimal Control Theory』
-
-* URL: <https://math.berkeley.edu/~evans/control.course.pdf>
-* ライセンス: 不明だが著者が公開している
-* 分野: 制御理論/最適制御
 
 ## Leinster『Galois Theory』
 
