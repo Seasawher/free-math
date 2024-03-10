@@ -96,3 +96,9 @@
 * URL: <https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf>
 * ライセンス: 不明だが著者が公開している
 * 分野: 位相空間論
+
+## Guichard『An Introduction to Combinatorics and Graph Theory』
+
+* URL: <https://www.whitman.edu/mathematics/cgt_online/cgt.pdf>
+* ライセンス: CC BY-NC-SA 3.0 DEED
+* 分野: 組み合わせ論，グラフ理論
