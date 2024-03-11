@@ -121,4 +121,10 @@
 
 * URL: <https://www.youtube.com/playlist?list=PLCo60G1m_ibpJgfB4WcGwWybC6sfyawoL>
 * ライセンス: 不明
-* 分野: 離散数学, 計算機科学, 数理工学
+* 分野: 離散数学, 計算機科学, 数理工学, 離散最適化
+
+## 岡本吉央先生の講義資料
+
+* URL: <http://dopal.cs.uec.ac.jp/okamotoy/lect/>
+* ライセンス: 不明
+* 分野: 計算機科学，数理工学, 離散最適化, 離散数学
