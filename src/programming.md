@@ -4,7 +4,7 @@
 
 * URL: <https://cs50.harvard.edu/web/2020/>
 * ライセンス: CC BY-NC-SA 4.0
-* 分野: Web開発
+* 分野: Web開発, Python, JavaScript
 
 ## CS50’s Introduction to Cybersecurity
 
@@ -30,3 +30,9 @@
 * ソースコード: <https://github.com/moocfi/haskell-mooc>
 * ライセンス: CC BY-SA 4.0 DEED
 * 分野: Haskell, 関数型プログラミング
+
+## CS50’s Introduction to Artificial Intelligence with Python
+
+* URL: <https://cs50.harvard.edu/ai/2024/>
+* ライセンス: CC BY-NC-SA 4.0
+* 分野: 機械学習, Python

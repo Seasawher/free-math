@@ -1,11 +1,5 @@
 # 機械学習
 
-## CS50’s Introduction to Artificial Intelligence with Python
-
-* URL: <https://cs50.harvard.edu/ai/2024/>
-* ライセンス: CC BY-NC-SA 4.0
-* 分野: 機械学習, プログラミング
-
 ## Mohri, Rostamizadeh, Talwalkar『Foundations of Machine Learning』
 
 * URL: <https://cs.nyu.edu/~mohri/mlbook/>
