@@ -32,8 +32,6 @@
 * 演習問題の解答: なし
 * 分野: 圏論
 
-
-
 ## Essential Coding Theory
 
 * URL: <https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/>
@@ -107,3 +105,9 @@
 
 * URL: <https://www.youtube.com/@yobinori>
 * 分野: 線形代数, 複素関数論, 群論, 微積分, Fourier解析, 確率統計
+
+## Kaya『Math 320 Set Theory』
+
+* URL: <https://users.metu.edu.tr/burakk/lecturenotes/320lecturenotes.pdf>
+* ライセンス: 不明だが著者が公開している
+* 分野: 集合論
