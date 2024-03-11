@@ -3,13 +3,13 @@
 ## 早水桃子研究室『離散数学入門』
 
 * URL: <https://www.youtube.com/playlist?list=PLCo60G1m_ibpJgfB4WcGwWybC6sfyawoL>
-* ライセンス: 不明
+* ライセンス: Youtube標準ライセンス
 * 分野: アルゴリズム理論
 
 ## 岡本吉央先生の講義資料
 
 * URL: <http://dopal.cs.uec.ac.jp/okamotoy/lect/>
-* ライセンス: 不明
+* ライセンス: 不明だが作者が公開している
 * 分野: 計算機科学，離散最適化, アルゴリズム理論
 
 ## Erickson『Algorithms』

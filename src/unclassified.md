@@ -81,12 +81,13 @@
 
 * URL: <https://www.youtube.com/c/3blue1brown>
 * 日本語版: <https://www.youtube.com/@3Blue1BrownJapan>
-* ライセンス: 不明
+* ライセンス: Youtube標準ライセンス
 * 分野: 数学
 
 ## 予備校のノリで学ぶ「大学の数学・物理」
 
 * URL: <https://www.youtube.com/@yobinori>
+* ライセンス: Youtube標準ライセンス
 * 分野: 線形代数, 複素関数論, 群論, 微積分, Fourier解析, 確率統計
 
 ## Kaya『Math 320 Set Theory』
