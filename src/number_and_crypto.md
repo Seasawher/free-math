@@ -1,4 +1,4 @@
-# 整数論
+# 整数論・暗号理論
 
 ## Stein『Elementary Number Theory』
 
