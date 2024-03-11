@@ -12,3 +12,9 @@
 * ライセンス: "Users may download a copy for personal use only. Not for distribution."
 * 演習問題の解答: <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/MLbookSol.pdf>
 * 分野: 機械学習
+
+## Bertsekas『A Course in Reinforcement Learning』
+
+* URL: <https://web.mit.edu/dimitrib/www/RLbook.html>
+* ライセンス: 不明だが著者が公開している
+* 分野: 機械学習, 強化学習

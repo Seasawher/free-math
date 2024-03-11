@@ -32,13 +32,7 @@
 * 演習問題の解答: なし
 * 分野: 圏論
 
-## Williamson, Shmoys『The Design of Approximation Algorithms』
 
-* URL: <https://www.designofapproxalgs.com/>
-* ライセンス: 不明
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 近似アルゴリズム
 
 ## Essential Coding Theory
 
@@ -55,7 +49,7 @@
 * 日本語版: <https://sites.google.com/view/open-data-structures-ja/home>
 * 演習問題: あり
 * 演習問題の解答: なし
-* 分野: データ構造とアルゴリズム, 計算機科学
+* 分野: データ構造とアルゴリズム
 
 ## Rosulek『The Joy of Cryptography』
 
@@ -64,15 +58,6 @@
 * 演習問題: あり
 * 演習問題の解答: なし
 * 分野: 暗号理論
-
-## Erickson『Algorithms』
-
-* URL: <https://jeffe.cs.illinois.edu/teaching/algorithms/>
-* 日本語版URL: <https://inzkyk.xyz/algorithms/>
-* ライセンス: CC BY 4.0 DEED
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: データ構造とアルゴリズム, 計算機科学
 
 ## Trench『Elementary Differential Equations』
 
@@ -104,30 +89,12 @@
 * ライセンス: CC BY-NC-SA 3.0 DEED
 * 分野: 組み合わせ論，グラフ理論
 
-## Bertsekas『A Course in Reinforcement Learning』
-
-* URL: <https://web.mit.edu/dimitrib/www/RLbook.html>
-* ライセンス: 不明だが著者が公開している
-* 分野: 機械学習, 強化学習
-
 ## Diez, Rundel, Barr『OpenIntro Statistics』
 
 * URL: <https://www.openintro.org/book/os/>
 * 日本語版: <http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf>
 * ライセンス: CCl
 * 分野: 統計学
-
-## 早水桃子研究室『離散数学入門』
-
-* URL: <https://www.youtube.com/playlist?list=PLCo60G1m_ibpJgfB4WcGwWybC6sfyawoL>
-* ライセンス: 不明
-* 分野: 離散数学, 計算機科学, 数理工学, 離散最適化
-
-## 岡本吉央先生の講義資料
-
-* URL: <http://dopal.cs.uec.ac.jp/okamotoy/lect/>
-* ライセンス: 不明
-* 分野: 計算機科学，数理工学, 離散最適化, 離散数学
 
 ## 3Blue1Brown
 
