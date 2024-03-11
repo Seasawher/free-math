@@ -68,10 +68,11 @@
 ## Erickson『Algorithms』
 
 * URL: <https://jeffe.cs.illinois.edu/teaching/algorithms/>
+* 日本語版URL: <https://inzkyk.xyz/algorithms/>
 * ライセンス: CC BY 4.0 DEED
 * 演習問題: あり
 * 演習問題の解答: なし
-* 分野: データ構造とアルゴリズム
+* 分野: データ構造とアルゴリズム, 計算機科学
 
 ## Trench『Elementary Differential Equations』
 
