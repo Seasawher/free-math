@@ -128,3 +128,15 @@
 * URL: <http://dopal.cs.uec.ac.jp/okamotoy/lect/>
 * ライセンス: 不明
 * 分野: 計算機科学，数理工学, 離散最適化, 離散数学
+
+## 3Blue1Brown
+
+* URL: <https://www.youtube.com/c/3blue1brown>
+* 日本語版: <https://www.youtube.com/@3Blue1BrownJapan>
+* ライセンス: 不明
+* 分野: 数学
+
+## 予備校のノリで学ぶ「大学の数学・物理」
+
+* URL: <https://www.youtube.com/@yobinori>
+* 分野: 線形代数, 複素関数論, 群論, 微積分, Fourier解析, 確率統計
