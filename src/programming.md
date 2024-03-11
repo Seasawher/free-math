@@ -1,5 +1,14 @@
 # プログラミング
 
+## Morin『Open Data Structures』
+
+* URL: https://opendatastructures.org/
+* ライセンス: CC BY 2.5 CA DEED
+* 日本語版: <https://sites.google.com/view/open-data-structures-ja/home>
+* 演習問題: あり
+* 演習問題の解答: なし
+* 分野: データ構造とアルゴリズム
+
 ## CS50’s Web Programming with Python and JavaScript
 
 * URL: <https://cs50.harvard.edu/web/2020/>

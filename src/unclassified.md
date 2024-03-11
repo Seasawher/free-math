@@ -40,15 +40,6 @@
 * 演習問題の解答: なし
 * 分野: 符号理論
 
-## Morin『Open Data Structures』
-
-* URL: https://opendatastructures.org/
-* ライセンス: CC BY 2.5 CA DEED
-* 日本語版: <https://sites.google.com/view/open-data-structures-ja/home>
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: データ構造とアルゴリズム
-
 ## Trench『Elementary Differential Equations』
 
 * URL: <https://digitalcommons.trinity.edu/mono/8/>
