@@ -6,7 +6,7 @@
 * ライセンス: 不明
 * 分野: 線形代数, 微積分
 
-## 黒田紘敏さんの講義資料
+## 黒田紘敏先生の講義資料
 
 * URL: <https://www7b.biglobe.ne.jp/~h-kuroda/lecture.html>
 * ライセンス: 不明だが著者が公開
