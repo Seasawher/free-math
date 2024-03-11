@@ -6,7 +6,7 @@
 
 - [線形代数](./linear_algebra.md)
 - [微積分](./calculus.md)
-- [整数論・暗号理論](./number_theory.md)
+- [整数論・暗号理論](./number_and_crypto.md)
 - [機械学習](./machine_learning.md)
 - [数理最適化](./optimization.md)
 - [アルゴリズム理論](./algorithms.md)
