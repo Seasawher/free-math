@@ -55,7 +55,7 @@
 * 日本語版: <https://sites.google.com/view/open-data-structures-ja/home>
 * 演習問題: あり
 * 演習問題の解答: なし
-* 分野: データ構造とアルゴリズム
+* 分野: データ構造とアルゴリズム, 計算機科学
 
 ## Rosulek『The Joy of Cryptography』
 
@@ -103,3 +103,9 @@
 * URL: <https://www.whitman.edu/mathematics/cgt_online/cgt.pdf>
 * ライセンス: CC BY-NC-SA 3.0 DEED
 * 分野: 組み合わせ論，グラフ理論
+
+## Bertsekas『A Course in Reinforcement Learning』
+
+* URL: <https://web.mit.edu/dimitrib/www/RLbook.html>
+* ライセンス: 不明だが著者が公開している
+* 分野: 機械学習, 強化学習
