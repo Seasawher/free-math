@@ -116,3 +116,9 @@
 * 日本語版: <http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf>
 * ライセンス: CCl
 * 分野: 統計学
+
+## 早水桃子研究室『離散数学入門』
+
+* URL: <https://www.youtube.com/playlist?list=PLCo60G1m_ibpJgfB4WcGwWybC6sfyawoL>
+* ライセンス: 不明
+* 分野: 離散数学, 計算機科学, 数理工学
