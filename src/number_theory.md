@@ -27,3 +27,11 @@
 * URL: <https://radbouduniversitypress.nl/site/books/m/10.54195/IPVU4488/>
 * ライセンス: CC BY-NC-ND 4.0 DEED
 * 分野: 代数的整数論
+
+## Rosulek『The Joy of Cryptography』
+
+* URL: <https://joyofcryptography.com/>
+* ライセンス: Creative Commons BY-NC-SA 4.0
+* 演習問題: あり
+* 演習問題の解答: なし
+* 分野: 暗号理論
