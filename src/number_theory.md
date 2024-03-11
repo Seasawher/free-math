@@ -14,4 +14,16 @@
 * ライセンス: Attribution-NonCommercial-NoDerivs 3.0
 * 演習問題: あり
 * 演習問題の解答: なし
-* 分野: 初等整数論
+* 分野: 初等整数論, 代数学
+
+## Yet Another Introductory Number Theory Textbook (Cryptology Emphasis Version)
+
+* URL: <https://open.umn.edu/opentextbooks/textbooks/673>
+* ライセンス: CC BY-SA
+* 分野: 整数論，暗号理論
+
+## Keune『Number Fields』
+
+* URL: <https://radbouduniversitypress.nl/site/books/m/10.54195/IPVU4488/>
+* ライセンス: CC BY-NC-ND 4.0 DEED
+* 分野: 代数的整数論
