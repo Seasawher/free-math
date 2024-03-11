@@ -109,3 +109,10 @@
 * URL: <https://web.mit.edu/dimitrib/www/RLbook.html>
 * ライセンス: 不明だが著者が公開している
 * 分野: 機械学習, 強化学習
+
+## Diez, Rundel, Barr『OpenIntro Statistics』
+
+* URL: <https://www.openintro.org/book/os/>
+* 日本語版: <http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf>
+* ライセンス: CCl
+* 分野: 統計学
