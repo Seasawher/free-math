@@ -3,7 +3,7 @@
 ## Liberzon『Calculus of Variations and Optimal Control Theory: a Concise Introduction』
 
 * URL: <http://liberzon.csl.illinois.edu/publications.html>
-* ライセンス: 不明
+* ライセンス: 不明だが著者が公開している
 * 分野: 最適制御
 
 ## Anderson, Moore『Optimal Control: Linear Quadratic Methods』
