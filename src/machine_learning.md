@@ -1,20 +1,20 @@
-# 機械学習
+# Machine Learning
 
 ## Mohri, Rostamizadeh, Talwalkar『Foundations of Machine Learning』
 
 * URL: <https://cs.nyu.edu/~mohri/mlbook/>
-* ライセンス: Creative Commons CC-BY-NC-ND
-* 分野: 機械学習
+* License: Creative Commons CC-BY-NC-ND
+* Subject: machine learning
 
 ## Shalev-Shwartz, Ben-David『Understanding Machine Learning: From Theory to Algorithms』
 
 * URL: <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/>
-* ライセンス: "Users may download a copy for personal use only. Not for distribution."
-* 演習問題の解答: <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/MLbookSol.pdf>
-* 分野: 機械学習
+* License: "Users may download a copy for personal use only. Not for distribution."
+* Solutions of Exercises: <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/MLbookSol.pdf>
+* Subject: machine learning
 
 ## Bertsekas『A Course in Reinforcement Learning』
 
 * URL: <https://web.mit.edu/dimitrib/www/RLbook.html>
-* ライセンス: 不明だが著者が公開している
-* 分野: 機械学習, 強化学習
+* License: Publicly available by the author.
+* Subject: machine learning, reinforcement learning
