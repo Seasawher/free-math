@@ -1,44 +1,40 @@
-# アルゴリズム理論
+# Algorithms
 
 ## 早水桃子研究室『離散数学入門』
 
 * URL: <https://www.youtube.com/playlist?list=PLCo60G1m_ibpJgfB4WcGwWybC6sfyawoL>
-* ライセンス: Youtube標準ライセンス
-* 分野: アルゴリズム理論
+* Lang: 日本語
+* License: Youtube Standard License
+* Subject: Algorithms
 
 ## 岡本吉央先生の講義資料
 
 * URL: <http://dopal.cs.uec.ac.jp/okamotoy/lect/>
-* ライセンス: 不明だが作者が公開している
-* 分野: 計算機科学，離散最適化, アルゴリズム理論
+* Lang: 日本語
+* License: Publicly available by the author.
+* Subject: Algorithms, Computer Science, Combinatorial Optimization
 
 ## Erickson『Algorithms』
 
 * URL: <https://jeffe.cs.illinois.edu/teaching/algorithms/>
-* 日本語版URL: <https://inzkyk.xyz/algorithms/>
-* ライセンス: CC BY 4.0 DEED
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: アルゴリズム理論
+* 日本語版: <https://inzkyk.xyz/algorithms/>
+* License: CC BY 4.0 DEED
+* Subject: Algorithms
 
 ## Williamson, Shmoys『The Design of Approximation Algorithms』
 
 * URL: <https://www.designofapproxalgs.com/>
-* ライセンス: 不明
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 近似アルゴリズム
+* License: unknown
+* Subject: Approximation Algorithm
 
 ## Schrijver『A Course in Combinatorial Optimization』
 
 * URL: <https://homepages.cwi.nl/~lex/files/dict.pdf>
-* ライセンス: 不明だが著者所有のドメインで公開している
-* 分野: アルゴリズム理論, 離散最適化
+* License: Publicly available by the author.
+* Subject: Algorithms
 
 ## 『Parameterized Algorithms』
 
 * URL: <https://www.mimuw.edu.pl/~malcin/book/>
-* ライセンス: 不明だが出版社の許可を得て公開
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: アルゴリズム理論, 離散最適化
+* License: Available with the publisher's permission.
+* Subject: Algorithms

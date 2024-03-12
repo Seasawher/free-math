@@ -1,18 +1,18 @@
 # Summary
 
-- [はじめに](./README.md)
+- [Introduction](./README.md)
 
 ---
 
-- [線形代数](./linear_algebra.md)
-- [微積分](./calculus.md)
-- [整数論・暗号理論](./number_and_crypto.md)
-- [機械学習](./machine_learning.md)
-- [数理最適化](./optimization.md)
-- [アルゴリズム理論](./algorithms.md)
-- [制御理論](./control.md)
+- [Linear Algebra](./linear_algebra.md)
+- [Calculus](./calculus.md)
+- [Number Theory and Cryptography](./number_and_crypto.md)
+- [Machine Learning](./machine_learning.md)
+- [Mathematical Optimization](./optimization.md)
+- [Algorithms](./algorithms.md)
+- [Control Theory](./control.md)
 
 ---
 
-- [未分類](./unclassified.md)
-- [プログラミング](./programming.md)
+- [Unclassified](./unclassified.md)
+- [Computer Programming](./programming.md)

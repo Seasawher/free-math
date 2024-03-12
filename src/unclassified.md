@@ -1,97 +1,90 @@
-# 未分類
+# Unclassified
 
 ## Altman, Kleiman『A term of Commutative Algebra』
 
 * URL: <https://dspace.mit.edu/handle/1721.1/116075.2>
-* ライセンス: CC BY-NC-SA 3.0 US DEED
-* 演習問題: あり
-* 演習問題の解答: あり
-* 分野: 可換環論
+* License: CC BY-NC-SA 3.0 US DEED
+* Solutions of Exercises: available
+* Subject: Commutative Algebra
 
 ## Hatcher『Algebraic Topology』
 
 * URL: <https://pi.math.cornell.edu/~hatcher/AT/ATpage.html>
-* ライセンス: 不明だが著者により公開されている
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 代数的トポロジー
+* License: Publicly available by the author.
+* Subject: Algebraic Topology
 
 ## Leinster『Basic Category Theory』
 
 * URL: <https://www.maths.ed.ac.uk/~tl/bct/>
-* ライセンス: CC NC-BY-SA 4.0
-* 演習問題: あり
-* 演習問題の解答: <https://positron0802.wordpress.com/basic-category-theory-leinster/>
-* 分野: 圏論
+* License: CC NC-BY-SA 4.0
+* Solutions of Exercises: <https://positron0802.wordpress.com/basic-category-theory-leinster/>
+* Subject: Category Theory
 
 ## Riehl『Category theory in Context』
 
 * URL: <https://math.jhu.edu/~eriehl/context>
-* ライセンス: "free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works"
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 圏論
+* License: "free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works"
+* Subject: Category Theory
 
 ## Essential Coding Theory
 
 * URL: <https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/>
-* ライセンス: CC BY-NC-ND 3.0 DEED
-* 演習問題: あり
-* 演習問題の解答: なし
-* 分野: 符号理論
+* License: CC BY-NC-ND 3.0 DEED
+* Subject: Coding Theory
 
 ## Trench『Elementary Differential Equations』
 
 * URL: <https://digitalcommons.trinity.edu/mono/8/>
-* ライセンス: Creative Commons Attribution-NonCommercial-ShareAlike 3.0
-* 分野: 微分方程式論
+* License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+* Subject: Differential Equations
 
 ## 『A First Course in Complex Analysis』
 
 * URL: <https://matthbeck.github.io/complex.html>
-* ライセンス: 不明
-* 分野: 複素解析
+* License: unknown
+* Subject: Complex Analysis
 
 ## Leinster『Galois Theory』
 
 * URL: <https://www.maths.ed.ac.uk/~tl/gt/gt.pdf>
-* ライセンス: 不明だが著者が公開している
-* 分野: Galois理論
+* License: Publicly available by the author.
+* Subject: Galois Theory
 
 ## Leinster『General Topology』
 
 * URL: <https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf>
-* ライセンス: 不明だが著者が公開している
-* 分野: 位相空間論
+* License: Publicly available by the author.
+* Subject: General Topology
 
 ## Guichard『An Introduction to Combinatorics and Graph Theory』
 
 * URL: <https://www.whitman.edu/mathematics/cgt_online/cgt.pdf>
-* ライセンス: CC BY-NC-SA 3.0 DEED
-* 分野: 組み合わせ論，グラフ理論
+* License: CC BY-NC-SA 3.0 DEED
+* Subject: Combiantorics, Graph Theory
 
 ## Diez, Rundel, Barr『OpenIntro Statistics』
 
 * URL: <https://www.openintro.org/book/os/>
 * 日本語版: <http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf>
-* ライセンス: CCl
-* 分野: 統計学
+* License: CCl
+* Subject: Statistics
 
 ## 3Blue1Brown
 
 * URL: <https://www.youtube.com/c/3blue1brown>
 * 日本語版: <https://www.youtube.com/@3Blue1BrownJapan>
-* ライセンス: Youtube標準ライセンス
-* 分野: 数学
+* License: Youtube Standard License
+* Subject: Mathematics
 
 ## 予備校のノリで学ぶ「大学の数学・物理」
 
 * URL: <https://www.youtube.com/@yobinori>
-* ライセンス: Youtube標準ライセンス
-* 分野: 線形代数, 複素関数論, 群論, 微積分, Fourier解析, 確率統計
+* Lang: 日本語
+* License: Youtube Standard License
+* Subject: Mathematics
 
 ## Kaya『Math 320 Set Theory』
 
 * URL: <https://users.metu.edu.tr/burakk/lecturenotes/320lecturenotes.pdf>
-* ライセンス: 不明だが著者が公開している
-* 分野: 集合論
+* License: Publicly available by the author.
+* Subject: Set Theory
