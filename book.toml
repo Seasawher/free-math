@@ -1,9 +1,9 @@
 [book]
 authors = ["Seasawher"]
-language = "ja"
-multilingual = false
+language = "en"
+multilingual = true
 src = "src"
-title = "数学無料リソース集"
+title = "Free Resources for Mathematics"
 
 [build]
 create-missing = false
