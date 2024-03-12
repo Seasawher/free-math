@@ -4,7 +4,15 @@ This is a collection of free resources for mathematics.
 
 ## Contribution Rule
 
-All suggestions for additional material, corrections of information or broken links are welcome! I am also happy to correct any errors in English, as I am not very good at English. 😄
+All contributioons are welcome! For example:
+
+* Adding resources.
+* Correcting information
+* pointing out broken links
+
+If you notice anything, please open an issue.
+
+I am also happy to correct any errors in English, as I am not very good at English. 😄
 
 However, the following rules must be respected when you want to add some resources.
 
