@@ -43,3 +43,10 @@
 * URL: <https://cs50.harvard.edu/ai/2024/>
 * License: CC BY-NC-SA 4.0
 * Subject: machine learning, Python
+
+## Introduction to Computational Thinking
+
+* URL: <https://computationalthinking.mit.edu/Fall23/>
+* Source: <https://github.com/mitmath/computational-thinking>
+* License: code is under MIT, text is under CC BY-SA 4.0
+* Subject: Julia, Data Science
