@@ -54,5 +54,5 @@
 ## EE104/CME107: Introduction to Machine Learning
 
 * URL: <https://ee104.stanford.edu/>
-* License: unknown but publicly available by the author.
+* License: Publicly available by the author.
 * Subject: Julia, Machine Learning

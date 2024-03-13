@@ -2,7 +2,9 @@
 
 ## Boyd, Vandenverghe『Convex Optimization』
 
-* URL: <https://web.stanford.edu/~boyd/cvxbook/>
+* Book URL: <https://web.stanford.edu/~boyd/cvxbook/>
+* Course URL1: <https://web.stanford.edu/class/ee364a/index.html>
+* Course URL2: <https://web.stanford.edu/class/ee364b/index.html>
 * License: Publicly available by the author.
 * Solutions of Exercises: <https://egrcc.github.io/docs/math/cvxbook-solutions.pdf>
 * Subject: convex optimization
