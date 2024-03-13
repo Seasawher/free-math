@@ -36,3 +36,10 @@
 * URL: <https://cryptohack.org>
 * License: publicly available by the authors
 * Subject: Cryptography, Python, SageMath
+
+## Aravind『Computational Number Theory』
+
+* URL: <https://people.iith.ac.in/aravind/Files-CS5610/CNT-NotesInProgress.pdf>
+* Course URL: <https://people.iith.ac.in/aravind/cs5610.html>
+* License: Publicly available by the author.
+* Subject: Computational Number Theory
