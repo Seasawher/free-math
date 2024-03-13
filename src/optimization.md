@@ -16,3 +16,9 @@
 * License: Unknown, but available on the publisher's domain.
 * Solutions of Exercises: <http://www.athenasc.com/convexduality.html>
 * Subject: convex optimization
+
+## Optimization Methods in Business Analytics
+
+* URL: <https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/about>
+* License: MIT Open Learning Library
+* Subject: linear programming, Julia programming
