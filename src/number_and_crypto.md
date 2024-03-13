@@ -30,3 +30,9 @@
 * URL: <https://joyofcryptography.com/>
 * License: Creative Commons BY-NC-SA 4.0
 * Subject: Cryptography
+
+## CryptoHack
+
+* URL: <https://cryptohack.org>
+* License: publicly available by the authors
+* Subject: Cryptography, Python, SageMath
