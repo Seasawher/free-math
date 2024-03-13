@@ -1,12 +1,5 @@
 # Computer Programming
 
-## Morin『Open Data Structures』
-
-* URL: https://opendatastructures.org/
-* License: CC BY 2.5 CA DEED
-* 日本語版: <https://sites.google.com/view/open-data-structures-ja/home>
-* Subject: Data Structures and Algorithms
-
 ## CS50’s Web Programming with Python and JavaScript
 
 * URL: <https://cs50.harvard.edu/web/2020/>
@@ -29,7 +22,7 @@
 
 * URL: <https://fullstackopen.com/en/>
 * License: Creative Commons BY-NC-SA 3.0
-* Subject: Web Development
+* Subject: Web Development, JavaScript
 
 ## Haskell Mooc
 
@@ -38,33 +31,9 @@
 * License: CC BY-SA 4.0 DEED
 * Subject: Haskell, Functional Programming
 
-## CS50’s Introduction to Artificial Intelligence with Python
-
-* URL: <https://cs50.harvard.edu/ai/2024/>
-* License: CC BY-NC-SA 4.0
-* Subject: machine learning, Python
-
 ## Introduction to Computational Thinking
 
 * URL: <https://computationalthinking.mit.edu/Fall23/>
 * Source: <https://github.com/mitmath/computational-thinking>
 * License: code is under MIT, text is under CC BY-SA 4.0
-* Subject: Julia, Data Science
-
-## EE104/CME107: Introduction to Machine Learning
-
-* URL: <https://ee104.stanford.edu/>
-* License: Publicly available by the author.
-* Subject: Julia, Machine Learning
-
-## アルゴ式
-
-* URL: <https://algo-method.com/>
-* Lang: 日本語
-* Subject: Algorithms
-
-## Julia Programming for Operations Research
-
-* URL: <https://www.chkwon.net/julia/>
-* License: Publicly available by the author.
-* Subject: Julia, Operations Research
+* Subject: Julia, Computer Science, Mathematics

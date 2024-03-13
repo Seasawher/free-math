@@ -38,3 +38,16 @@
 * URL: <https://www.mimuw.edu.pl/~malcin/book/>
 * License: Available with the publisher's permission.
 * Subject: Algorithms
+
+## Morin『Open Data Structures』
+
+* URL: https://opendatastructures.org/
+* License: CC BY 2.5 CA DEED
+* 日本語版: <https://sites.google.com/view/open-data-structures-ja/home>
+* Subject: Data Structures and Algorithms, Python, C++, Java
+
+## アルゴ式
+
+* URL: <https://algo-method.com/>
+* Lang: 日本語
+* Subject: Algorithms, Computer Programming

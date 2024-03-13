@@ -25,3 +25,15 @@
 * Lang: 日本語
 * License: OCW
 * SUbject: machine learning
+
+## CS50’s Introduction to Artificial Intelligence with Python
+
+* URL: <https://cs50.harvard.edu/ai/2024/>
+* License: CC BY-NC-SA 4.0
+* Subject: machine learning, Python
+
+## EE104/CME107: Introduction to Machine Learning
+
+* URL: <https://ee104.stanford.edu/>
+* License: Publicly available by the author.
+* Subject: Julia, Machine Learning
