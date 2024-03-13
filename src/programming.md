@@ -62,3 +62,9 @@
 * URL: <https://algo-method.com/>
 * Lang: 日本語
 * Subject: Algorithms
+
+## Julia Programming for Operations Research
+
+* URL: <https://www.chkwon.net/julia/>
+* License: Publicly available by the author.
+* Subject: Julia, Operations Research
