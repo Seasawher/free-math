@@ -22,4 +22,6 @@
 
 * URL: <https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/>
 * License: MIT OpenCourseWare
-* Subject: optimal control, MATLAB
+* Subject: optimal control, MATLAB[^a]
+
+[^a]: MatLab is commercial software.
