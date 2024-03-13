@@ -18,3 +18,10 @@
 * URL: <https://web.mit.edu/dimitrib/www/RLbook.html>
 * License: Publicly available by the author.
 * Subject: machine learning, reinforcement learning
+
+## 筑波大学OCW『機械学習』
+
+* URL: <https://ocw.tsukuba.ac.jp/course/systeminformation/machine_learning/>
+* Lang: 日本語
+* License: OCW
+* SUbject: machine learning
