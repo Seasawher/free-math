@@ -81,3 +81,10 @@
 * URL: <https://www.ocw.titech.ac.jp/>
 * Lang: 日本語, English
 * Subject: General
+
+## EE 376A: Information Theory
+
+* Note URL: <https://web.stanford.edu/class/ee376a/files/scribes/lecture_notes.pdf>
+* Course URL: <https://web.stanford.edu/class/ee376a/>
+* License: Publicly available by the author.
+* Subject: Information Theory
