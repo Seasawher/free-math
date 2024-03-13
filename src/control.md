@@ -17,3 +17,9 @@
 * URL: <https://math.berkeley.edu/~evans/control.course.pdf>
 * License: Publicly available by the author.
 * Subject: optimal control
+
+## Principles Of Optimal Control
+
+* URL: <https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/>
+* License: MIT OpenCourseWare
+* Subject: optimal control, MATLAB
