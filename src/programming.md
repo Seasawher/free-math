@@ -56,3 +56,9 @@
 * URL: <https://ee104.stanford.edu/>
 * License: Publicly available by the author.
 * Subject: Julia, Machine Learning
+
+## アルゴ式
+
+* URL: <https://algo-method.com/>
+* Lang: 日本語
+* Subject: Algorithms
