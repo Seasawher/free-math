@@ -50,3 +50,9 @@
 * Source: <https://github.com/mitmath/computational-thinking>
 * License: code is under MIT, text is under CC BY-SA 4.0
 * Subject: Julia, Data Science
+
+## EE104/CME107: Introduction to Machine Learning
+
+* URL: <https://ee104.stanford.edu/>
+* License: unknown but publicly available by the author.
+* Subject: Julia, Machine Learning
