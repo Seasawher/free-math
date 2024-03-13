@@ -24,16 +24,22 @@
 * URL: <https://ocw.tsukuba.ac.jp/course/systeminformation/machine_learning/>
 * Lang: 日本語
 * License: OCW
-* SUbject: machine learning
+* SUbject: Machine Learning
 
 ## CS50’s Introduction to Artificial Intelligence with Python
 
 * URL: <https://cs50.harvard.edu/ai/2024/>
 * License: CC BY-NC-SA 4.0
-* Subject: machine learning, Python
+* Subject: Machine Learning, Python
 
 ## EE104/CME107: Introduction to Machine Learning
 
 * URL: <https://ee104.stanford.edu/>
 * License: Publicly available by the author.
 * Subject: Julia, Machine Learning
+
+## Griffin『Mathematics of Machine Learning』
+
+* URL: <https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/d/166843/files/2023/06/SA486X.pdf>
+* License: CC BY-NC-SA 3.0 US DEED
+* Subject: Machine Learning
