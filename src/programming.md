@@ -43,3 +43,11 @@
 * Source: <https://github.com/mitmath/computational-thinking>
 * License: code is under MIT, text is under CC BY-SA 4.0
 * Subject: Julia, Computer Science, Mathematics
+
+## Introduction To Computational Thinking With Julia, With Applications To Modeling The COVID-19 Pandemic
+
+* Category: Course 🧑‍🏫
+* URL: <https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/>
+* Source: <https://github.com/mitmath/6S083>
+* License: code is under MIT, text is under CC BY-NC-SA
+* Subject: Julia, data science, artificial intelligence, Mathematics
