@@ -2,6 +2,7 @@
 
 ## Altman, Kleiman『A term of Commutative Algebra』
 
+* Category: Book 📖
 * URL: <https://dspace.mit.edu/handle/1721.1/116075.2>
 * License: CC BY-NC-SA 3.0 US DEED
 * Solutions of Exercises: available
@@ -9,48 +10,56 @@
 
 ## Hatcher『Algebraic Topology』
 
+* Category: Book 📖
 * URL: <https://pi.math.cornell.edu/~hatcher/AT/ATpage.html>
 * License: Publicly available by the author.
 * Subject: Algebraic Topology
 
 ## Essential Coding Theory
 
+* Category: Book 📖
 * URL: <https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/>
 * License: CC BY-NC-ND 3.0 DEED
 * Subject: Coding Theory
 
 ## Trench『Elementary Differential Equations』
 
+* Category: Book 📖
 * URL: <https://digitalcommons.trinity.edu/mono/8/>
 * License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0
 * Subject: Differential Equations
 
 ## 『A First Course in Complex Analysis』
 
+* Category: Book 📖
 * URL: <https://matthbeck.github.io/complex.html>
 * License: unknown
 * Subject: Complex Analysis
 
 ## Leinster『Galois Theory』
 
+* Category: Lecture Notes 📝
 * URL: <https://www.maths.ed.ac.uk/~tl/gt/gt.pdf>
 * License: Publicly available by the author.
 * Subject: Galois Theory
 
 ## Leinster『General Topology』
 
+* Category: Lecture Notes 📝
 * URL: <https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf>
 * License: Publicly available by the author.
 * Subject: General Topology
 
 ## Guichard『An Introduction to Combinatorics and Graph Theory』
 
+* Category: Book 📖
 * URL: <https://www.whitman.edu/mathematics/cgt_online/cgt.pdf>
 * License: CC BY-NC-SA 3.0 DEED
 * Subject: Combiantorics, Graph Theory
 
 ## Diez, Rundel, Barr『OpenIntro Statistics』
 
+* Category: Book 📖
 * URL: <https://www.openintro.org/book/os/>
 * 日本語版: <http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf>
 * License: CCl
@@ -58,6 +67,7 @@
 
 ## 3Blue1Brown
 
+* Category: Lecture Video 🎥
 * URL: <https://www.youtube.com/c/3blue1brown>
 * 日本語版: <https://www.youtube.com/@3Blue1BrownJapan>
 * License: Youtube Standard License
@@ -65,6 +75,7 @@
 
 ## 予備校のノリで学ぶ「大学の数学・物理」
 
+* Category: Lecture Video 🎥
 * URL: <https://www.youtube.com/@yobinori>
 * Lang: 日本語
 * License: Youtube Standard License
@@ -72,18 +83,21 @@
 
 ## Kaya『Math 320 Set Theory』
 
+* Category: Lecture Notes 📝
 * URL: <https://users.metu.edu.tr/burakk/lecturenotes/320lecturenotes.pdf>
 * License: Publicly available by the author.
 * Subject: Set Theory
 
 ## 東京工業大学OCW
 
+* Category: Course 🧑‍🏫
 * URL: <https://www.ocw.titech.ac.jp/>
 * Lang: 日本語, English
 * Subject: General
 
 ## EE 376A: Information Theory
 
+* Category: Lecture Notes 📝
 * Note URL: <https://web.stanford.edu/class/ee376a/files/scribes/lecture_notes.pdf>
 * Course URL: <https://web.stanford.edu/class/ee376a/>
 * License: Publicly available by the author.
