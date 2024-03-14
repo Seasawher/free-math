@@ -1,6 +1,6 @@
 # Free Resources for Mathematics
 
-A collection of free and publicly available mathematics resources (textbooks and lecture materials, etc).
+A collection of free and publicly available mathematics resources (textbooks and lecture materials, etc). Of course, they are all **legally** available! 
 
 ## Links
 
