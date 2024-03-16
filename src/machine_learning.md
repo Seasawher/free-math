@@ -57,3 +57,10 @@
 * URL: <http://introtodeeplearning.com/2020/index.html>
 * License: Open Courseware
 * Subject: Machine Learning, Deep Learning
+
+## Element of AI
+
+* Category: Course 🧑‍🏫
+* URL: <https://www.elementsofai.com/>
+* License: Open Courseware
+* Subject: Artificial Intelligence
