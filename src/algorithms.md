@@ -59,3 +59,10 @@
 * URL: <https://algo-method.com/>
 * Lang: 日本語
 * Subject: Algorithms, Computer Programming
+
+## Introduction To Algorithms
+
+* Category: Course 🧑‍🏫
+* URL: <https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/>
+* License: MIT OCW
+* Subject: Algorithms
