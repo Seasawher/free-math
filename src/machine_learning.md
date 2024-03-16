@@ -50,3 +50,10 @@
 * URL: <https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/d/166843/files/2023/06/SA486X.pdf>
 * License: CC BY-NC-SA 3.0 US DEED
 * Subject: Machine Learning
+
+## MIT 6.S191 Introduction to Deep Learning
+
+* Category: Course 🧑‍🏫
+* URL: <http://introtodeeplearning.com/2020/index.html>
+* License: Open Courseware
+* Subject: Machine Learning, Deep Learning
