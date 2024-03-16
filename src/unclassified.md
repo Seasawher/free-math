@@ -80,3 +80,10 @@
 * Course URL: <https://web.stanford.edu/class/ee376a/>
 * License: Publicly available by the author.
 * Subject: Information Theory
+
+## Combinatorial Theory: Hyperplane Arrangements
+
+* Category: Course 🧑‍🏫
+* URL: <https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/>
+* License: MIT OCW
+* Subject: Discrete Mathematics
