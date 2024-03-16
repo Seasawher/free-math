@@ -51,3 +51,10 @@
 * Source: <https://github.com/mitmath/6S083>
 * License: code is under MIT, text is under CC BY-NC-SA
 * Subject: Julia, data science, artificial intelligence, Mathematics
+
+## Haskell 99
+
+* Category: Website 🌐
+* URL: <https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems>
+* License: the simple permissive license
+* Subject: Haskell, Functional Programming
