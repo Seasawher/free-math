@@ -36,3 +36,10 @@
 * URL: <https://www.chkwon.net/julia/>
 * License: Publicly available by the author.
 * Subject: Julia, Operations Research
+
+## Algorithms for Optimization
+
+* Category: Book 📖
+* URL: <https://algorithmsbook.com/optimization/>
+* License: Creative Commons CC-BY-NC-ND
+* Subject: Julia, Mathematical Optimization

@@ -87,3 +87,10 @@
 * URL: <https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/>
 * License: MIT OCW
 * Subject: Discrete Mathematics
+
+## Algorithms for Decision Making
+
+* Category: Book 📖
+* URL: <https://algorithmsbook.com/#>
+* License: Creative Commons CC-BY-NC-ND
+* Subject: Mathematical Engineering, Julia
