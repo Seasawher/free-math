@@ -1,5 +1,11 @@
 # Control Theory
 
+## awesome-control-theory
+
+* Category: Awesome List 😎
+* URL: <https://github.com/A-make/awesome-control-theory?tab=readme-ov-file#books>
+* Subject: control theory
+
 ## Liberzon『Calculus of Variations and Optimal Control Theory: a Concise Introduction』
 
 * Category: Book 📖
@@ -28,4 +34,4 @@
 * License: MIT OpenCourseWare
 * Subject: optimal control, MATLAB[^a]
 
-[^a]: MatLab is commercial software.
+[^a]: MatLab is commercial software. Instead, you can use Octave, Julia, and Python.
