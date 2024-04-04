@@ -94,3 +94,10 @@
 * URL: <https://algorithmsbook.com/#>
 * License: Creative Commons CC-BY-NC-ND
 * Subject: Mathematical Engineering, Julia
+
+## 数値計算法基礎
+
+* Category: Course 🧑‍🏫
+* URL: <http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2020-8Semester-NA-basic/>
+* License: Publicly available by the author.
+* Subject: Numerical Analysis, Julia
