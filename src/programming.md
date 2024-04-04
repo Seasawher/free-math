@@ -61,7 +61,14 @@
 
 ## mostly adequate guide
 
-* category: Website 🌐
+* Category: Website 🌐
 * URL: <https://mostly-adequate.gitbook.io/mostly-adequate-guide>
 * License: CC BY-SA 4.0 DEED
 * Subject: Functional Programming, JavaScript
+
+## Coding Train
+
+* Category: Video 🎥
+* URL: <https://www.youtube.com/@TheCodingTrain>
+* License: Youtube Standard License
+* Subject: Programming, Visualization, JavaScript
