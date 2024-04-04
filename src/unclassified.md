@@ -100,4 +100,12 @@
 * Category: Course 🧑‍🏫
 * URL: <http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2020-8Semester-NA-basic/>
 * License: Publicly available by the author.
+* Lang: 日本語
 * Subject: Numerical Analysis, Julia
+
+## Open Logic Project
+
+* Category: Book 📖
+* URL: <https://builds.openlogicproject.org/>
+* Source: <https://github.com/OpenLogicProject/OpenLogic>
+* License: CC BY 4.0 DEED
