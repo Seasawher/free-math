@@ -64,3 +64,10 @@
 * URL: <https://www.elementsofai.com/>
 * License: Open Courseware
 * Subject: Artificial Intelligence
+
+## The Elements of Differentiable Programming
+
+* Category: Book 📖
+* URL: <https://arxiv.org/abs/2403.14606>
+* License: Publicly available by the author.
+* Subject: Machine Learning, Differentiable Programming
