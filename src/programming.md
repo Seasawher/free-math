@@ -58,3 +58,10 @@
 * URL: <https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems>
 * License: the simple permissive license
 * Subject: Haskell, Functional Programming
+
+## mostly adequate guide
+
+* category: Website 🌐
+* URL: <https://mostly-adequate.gitbook.io/mostly-adequate-guide>
+* License: CC BY-SA 4.0 DEED
+* Subject: Functional Programming, JavaScript
