@@ -98,7 +98,7 @@
 ## 数値計算法基礎
 
 * Category: Course 🧑‍🏫
-* URL: <http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2020-8Semester-NA-basic/>
+* URL: <http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2023-8Semester-NA-basic/>
 * License: Publicly available by the author.
 * Lang: 日本語
 * Subject: Numerical Analysis, Julia
