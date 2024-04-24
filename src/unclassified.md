@@ -109,3 +109,11 @@
 * URL: <https://builds.openlogicproject.org/>
 * Source: <https://github.com/OpenLogicProject/OpenLogic>
 * License: CC BY 4.0 DEED
+
+## 実験数学
+
+* Category: Course 🧑‍🏫
+* URL: <https://yutomiyatake.github.io/2024expmath1/>
+* License: Publicly available by the author.
+* Lang: 日本語
+* Subject: Numerical Analysis, Julia, C
